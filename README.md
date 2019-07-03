@@ -7,6 +7,11 @@ Used the RED-GREEN-REFACTOR cycle to develop the app and its corresponding autom
 * **Programming Language**: Java
 * **Testing Framework**: JUnit (can be adapted to any xUnit framework)
 
+## Code Samples
+
+* Source code: https://github.com/joaorebelo92/Yelling-App/blob/master/test/YellingTest.java
+* Automated JUnit test cases: https://github.com/joaorebelo92/Yelling-App/blob/master/test/YellingTest.java
+
 ## Expected Output
 
 * All requirements are implemented
