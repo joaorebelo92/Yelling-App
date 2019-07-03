@@ -2,7 +2,7 @@
 
 An academic exploration of developing software using Test Driven Development (TDD). 
 
-Used the RED-GREEN-REFACTOR cycle to develop the app and its corresponding automated test stuite..
+Used the RED-GREEN-REFACTOR cycle to develop the app and its corresponding automated test suite. As with all things TDD, TDD is about process. See the R/G/R process here: https://bitbucket.org/joaorebelo/madt5234assignment1/commits/all
 
 * **Programming Language**: Java
 * **Testing Framework**: JUnit (can be adapted to any xUnit framework)
@@ -11,6 +11,7 @@ Used the RED-GREEN-REFACTOR cycle to develop the app and its corresponding autom
 
 * Source code: https://github.com/joaorebelo92/Yelling-App/blob/master/test/YellingTest.java
 * Automated JUnit test cases: https://github.com/joaorebelo92/Yelling-App/blob/master/test/YellingTest.java
+* Red Green Refactor commits: https://bitbucket.org/joaorebelo/madt5234assignment1/commits/all
 
 ## Expected Output
 
